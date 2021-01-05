@@ -1,0 +1,55 @@
+body {margin: 0px; 
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #F2F2F2;
+}
+
+#topo {background-color: #F2F2F2;
+       width: 100%;
+       height: 100px;
+       margin-top: 0px;
+}
+
+#to2 {background-color: blue;
+      width: 100%;
+      height: 40px;
+}
+
+#gamer {background: url(gamer.jpg);
+        width: 485px;
+        height: 335px;
+        margin-top: -0px;
+}
+
+#pre {background-color: black;
+      height: 37px;
+      width: 150px;
+      position: relative; 
+      top: 700px;
+      left: 600px;       
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cabe {background: linear-gradient(#0a043c, #03506f, #bbbbbb, #ffe3d8);
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       height: 100vh;
+       width: 100%;
+       top: 100%;
+}
